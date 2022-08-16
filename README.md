@@ -7,7 +7,7 @@
 | core        | Core features like School, Classes, Students |
 | teacher-app | Host Application for teachers                |
 
-| hi
+| hi grfgtthh
 ytytuy7tu
 
 ## Create New Module
