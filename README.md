@@ -7,6 +7,8 @@
 | core        | Core features like School, Classes, Students |
 | teacher-app | Host Application for teachers                |
 
+| hi
+
 ## Create New Module
 
 - copy module-template to packages/[module-name]
@@ -29,7 +31,7 @@ module.exports = {
   ...
 ```
 
-- update `packages/[module-name]/moduleFederation.config.js `
+- update `packages/[module-name]/moduleFederation.config.js`
 
 ```
 ...
@@ -69,7 +71,7 @@ lerna run start --scope=[module-name]
 
 # Use Module in Host Application
 
-- Add remote module url to remotes in `packages/[host-app]/moduleFederation.config.js `
+- Add remote module url to remotes in `packages/[host-app]/moduleFederation.config.js`
 
 ```
 
